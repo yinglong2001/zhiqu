@@ -8,5 +8,7 @@ namespace ClassLibrary1
 {
     class Class2
     {
+        public void sss()
+        { }
     }
 }
